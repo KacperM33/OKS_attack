@@ -24,11 +24,11 @@ Instrukcja odtworzenia tych konkretnych eksperymentów została przedstawiona po
 
 **Rysunek 1.** Schemat przeprowadzanego ataku.
 
-![alt text](fig3_5_pl.png)
+<img width="600" alt="fig3_5" src="https://github.com/user-attachments/assets/4834a479-2c8d-4622-b5c5-d0e20714140d" />
 
 **Rysunek 2.** Reprezentacja błędnych klasyfikacji akcji. Każdy wiersz pokazuje klatki z jednego wideo w odstępie ∆ = 10 klatek. Oryginalne oraz adwersarialne predykcje póz zostały odpowiednio zaprezentowane zielonym oraz czerwonym kolorem; brak szkieletu odpowiada za brak detekcji. Prostokąty z prawej pokazują pewność predykcji w danym wideo.
 
-![alt text](fig2.png)
+<img width="800" alt="fig2_2" src="https://github.com/user-attachments/assets/26c957fd-2c00-4c1b-98c7-2789abd55a26" />
 
 **Tabela 1.** Średni OKS dla czystych i adwersarialnych póz wyznaczonych przez estymator pozy. Wyniki uwzględnione zostały dla wszystkich wideo, wideo ze zmienioną akcją oraz wideo bez zmienionej akcji.
 
