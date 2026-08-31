@@ -30,11 +30,12 @@ Experiments on the Penn Action dataset show that **OKS Attack** consistently red
 ## 📊 MAIN RESULTS
 
 **Figure 1.** Overview of the proposed attack.
-![alt text](fig3_5.png)
+
+<img width="600" alt="fig3_5" src="https://github.com/user-attachments/assets/4834a479-2c8d-4622-b5c5-d0e20714140d" />
 
 **Figure. 2.** Examples of action prediction changes. Each row shows frames sampled from one video at a fixed interval of ∆ = 10 frames. Clean and adversarial pose predictions are overlaid in green and red; the absence of a skeleton indicates that no pose was detected. Boxes report clean and adversarial predictions with confidence scores.
 
-![alt text](fig2.png)
+<img width="800" alt="fig2_2" src="https://github.com/user-attachments/assets/26c957fd-2c00-4c1b-98c7-2789abd55a26" />
 
 **Table 1.** Mean OKS for clean and adversarial pose predictions. Results are reported for all videos, action-changed videos, and action-unchanged videos. Random noise denotes a query-matched baseline with the same perturbation budget as OKS Attack.
 
