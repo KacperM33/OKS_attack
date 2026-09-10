@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you find this code or our custom OKS attack useful in your research, please consider citing our work."
+message: "If you find this code or our paper useful in your research, please consider citing it."
 authors:
   - family-names: "Mroczek"
     given-names: "Kacper"
@@ -7,3 +7,14 @@ authors:
     given-names: "Michal"
 title: "A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models"
 url: "https://github.com/KacperM33/OKS_attack"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Mroczek"
+      given-names: "Kacper"
+    - family-names: "Kepski"
+      given-names: "Michal"
+  title: "A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models"
+  journal: "arXiv preprint arXiv:2609.08013"
+  year: 2026
+  url: "https://arxiv.org/abs/2609.08013"
