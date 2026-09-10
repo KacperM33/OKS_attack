@@ -1,5 +1,7 @@
 # *A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models*
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.08013-b31b1b.svg)](https://arxiv.org/abs/2609.08013)
+
 > 🇵🇱 **Polska wersja językowa / Dokumentacja pracy magisterskiej:**  
 > Instrukcję odtworzenia eksperymentów specyficznych dla pracy magisterskiej znajdziesz w [README_PL_THESIS.md](README_PL_THESIS.md).
 
@@ -326,19 +328,21 @@ Arguments:
  | `no_det_clean_bbox_experiment.py` | two-stage | `attacks/OKS_attack_no_det.py` | ☑️ | 
 
 <a id="citation"></a>
-## ✏️ CITATION (IN PROGRESS)
+## ✏️ CITATION
 
-<!-- If you find this code or our custom OKS attack useful in your research, please consider citing our work:
+If you find this code or our paper useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{mroczek2026oksattack,
-  title={A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models},
-  author={Kacper Mroczek and Michal Kepski},
-  booktitle={Advanced Concepts for Intelligent Vision Systems (ACIVS)},
-  year={2026},
-  note={To appear}
+@misc{mroczek2026blackboxadversarialattackhuman,
+      title={A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models}, 
+      author={Kacper Mroczek and Michal Kepski},
+      year={2026},
+      eprint={2609.08013},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2609.08013}, 
 }
-``` -->
+```
 
 <a id="acknowledgements"></a>
 ## 🌐 ACKNOWLEDGEMENTS
